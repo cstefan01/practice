@@ -3,3 +3,6 @@ This is my first git practice.
 This is the second change. 
 
 This change has been made on my local machine.
+
+
+This line is from a different branch.SS
